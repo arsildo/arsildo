@@ -8,7 +8,7 @@ val arsildo = developer {
         name = "arsildo"
         role = "Android Developer"
     }
-    tech("Kotlin", "JetpackCompose", "Dart", "Flutter")
+    tech("Kotlin", "JetpackCompose")
 }
 ```
 ## Favorites
